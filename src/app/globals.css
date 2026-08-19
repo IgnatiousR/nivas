@@ -168,6 +168,7 @@
 .line-mask {
   overflow: hidden;
   display: block;
+  padding-block: 0.15em;
 }
 
 .line-mask > span {
